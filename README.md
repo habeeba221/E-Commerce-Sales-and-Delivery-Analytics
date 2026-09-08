@@ -4,7 +4,7 @@ Interactive Power BI dashboard for analyzing e-commerce sales, delivery performa
 
 ## Tools & Skills Used
 
-- Power BI
+- Microsoft Power BI
 - Power Query
 - DAX
 - Data Cleaning
@@ -13,7 +13,6 @@ Interactive Power BI dashboard for analyzing e-commerce sales, delivery performa
 
 ## Key Insights
 
-- Key Insights
 - Electronics contributes the highest revenue share at 36%.
 - West and North regions generate the highest revenue, around $1.3M each.
 - Electronics has the highest quantity sold at 7.1K, followed by Clothing at 6.2K.
